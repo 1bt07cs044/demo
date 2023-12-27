@@ -1,3 +1,3 @@
 # demo
 my first git repository <br>
-Author - Lohith
+Author - Lohith Nataraj
